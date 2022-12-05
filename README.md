@@ -1,2 +1,2 @@
 # Apotheosis
- A homemade, asynchronous, C# messaging library.
+ A homemade, asynchronous, C# messenger library.
